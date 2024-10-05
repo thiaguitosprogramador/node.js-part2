@@ -1,0 +1,10 @@
+form{
+    text-align: center;
+    margin: 7%;
+}
+#botonaso{
+    margin: 2%;
+}
+body{
+    background-color: color-mix(in srgb, black 70%, gray 30%);
+}
